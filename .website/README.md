@@ -1,0 +1,5 @@
+---
+# See github.com/js13kGames/hello-world for supported frontmatter
+---
+
+Automated battle game with tap controls. Save the world with a remote mobile gear, send commands and instruction to your suit. Use different skills and tactics.
